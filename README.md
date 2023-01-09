@@ -1,2 +1,2 @@
 # react-todo-hooks
-A react code snippet
+A ToDo list using react and hooks (useState and useEffect). 
